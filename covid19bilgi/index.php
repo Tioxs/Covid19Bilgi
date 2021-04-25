@@ -48,7 +48,7 @@
 <footer>
   <a href="https://t.me/GundelikCorona"><b>t.me/GundelikCorona</b></a><br><br>
   <a href="http://tiox.tech/api/">API</strong></a>&nbsp;&nbsp;
-  <a href="https://github.com/Tioxs/Covid-19-Information">Kaynak Kod</strong></a>&nbsp;&nbsp;
+  <a href="https://github.com/Tioxs/Covid19Bilgi">Kaynak Kod</strong></a>&nbsp;&nbsp;
   <a href="http://t.me/bosluk">İletişim</a>
 </footer>
 </body>
