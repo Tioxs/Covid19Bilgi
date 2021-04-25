@@ -5,7 +5,7 @@
 ![Covid19Bilgi](resimler/1.png)<br>
 
 Demo: http://tiox.tech/asdas/<br>
-Api: http://tiox.tech/aapi/
+Api: http://tiox.tech/api/
 
 Telegram bildirim kanalımız için: https://t.me/gundelikcorona/
 
